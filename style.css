@@ -35,10 +35,10 @@ span[contenteditable] {
 /* heading */
 h1 {
     font: bold 100% roboto;
-    letter-spacing: 2em;
+    letter-spacing: 0.25em;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 2em; /* Añadido para espacio después del título */
+    margin-bottom: 0.25em; /* Añadido para espacio después del título */
 }
 
 /* table */
@@ -86,7 +86,7 @@ header {
 header h1 {
     background: #27649d;
     border-radius: 0.25em;
-    color: #737373;
+    color: #FFF;
     margin: 0;
     padding: 0.5em 0;
 }
