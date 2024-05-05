@@ -85,14 +85,14 @@ header {
 
 header h1 {
     background: #737373;
-    border-radius: 0.5em;
+    border-radius: 1em;
     color: #FFF;
     margin: 0;
     padding: 0.5em 0;
 }
 
 header address {
-    float: left;
+    float: center;
     font-size: 75%;
     font-style: normal;
     line-height: 1.25;
